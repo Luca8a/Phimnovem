@@ -1,0 +1,44 @@
+ #carousel {
+	 margin: 40px 0px;
+ }
+
+
+.navbar {
+	margin-bottom: 0px;
+	padding: 30px 15px ;
+}
+.navbar-nav {
+
+}
+
+.navbar img{
+	width : 20%;
+	height : 20%;
+}
+.navbar-left img{
+	height : 20px;
+	width : auto;
+	margin-top : 20px;
+}
+.navbar-right img{
+	height : 20px;
+	width : auto;
+	margin-top : 20px;
+}
+ footer {
+	background-color: black;
+	color: white;
+	padding: 20px;
+	text-align: center;
+
+ }
+
+ .fill-screen{
+	background-size : cover;
+	background-position : center;
+ }
+ 
+.carousel-inner > .item > img {
+    margin: 0 auto;
+	max-width : 100%;
+}
